@@ -34,7 +34,7 @@ The model was trained in two phases:
 
 | Training Phase | Validation Accuracy |
 |---------------|--------------------|
-| Frozen ResNet50 | 95.00% |
+| Frozen ResNet50 | 95.37% |
 | Fine-Tuned ResNet50 | 98.02% |
 
 ## Technologies Used
