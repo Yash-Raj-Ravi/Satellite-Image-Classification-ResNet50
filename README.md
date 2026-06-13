@@ -23,12 +23,17 @@ The model was trained in two phases:
 
 ### Phase 1: Feature Extraction
 - All ResNet50 layers frozen
-- Validation Accuracy: **95.00%**
+- Validation Accuracy: **95.37%**
 
 ### Phase 2: Fine-Tuning
 - Unfroze last 30 layers
 - Reduced learning rate
 - Validation Accuracy: **98.02%**
+- 
+### Training Enhancements
+- Data augmentation for improved generalization
+- Transfer learning using ImageNet pretrained weights
+- Fine-tuning of the final 30 ResNet50 layers
 
 ## Results
 
