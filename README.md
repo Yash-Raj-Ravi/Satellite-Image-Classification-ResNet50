@@ -29,7 +29,7 @@ The model was trained in two phases:
 - Unfroze last 30 layers
 - Reduced learning rate
 - Validation Accuracy: **98.02%**
-- 
+  
 ### Training Enhancements
 - Data augmentation for improved generalization
 - Transfer learning using ImageNet pretrained weights
